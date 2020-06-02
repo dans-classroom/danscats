@@ -20,3 +20,11 @@ Cody
 Dan G
 Dan M
 Dan (the ghost)
+
+## Todos
+Review some CRR stuff
+Mow grass
+Feed the cats
+to do to do
+Review tzxes
+
