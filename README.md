@@ -12,3 +12,11 @@ What we're going to do.
 If we have time:
 - we can talk forks (not eating)
     - general workflow.
+
+Who's here today:
+Robbin
+Markis
+Cody
+Dan G
+Dan M
+Dan (the ghost)
